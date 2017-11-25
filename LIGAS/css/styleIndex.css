@@ -1,0 +1,23 @@
+#ligas{
+  width: 30%;
+  position: relative;
+  left: 35%;
+}
+#equipos{
+  width: 30%;
+  position: relative;
+  left: 35%;
+}
+#label1{
+  font-size: 25px;
+  position: relative;
+  top: 30px;
+  left: 25%;
+}
+
+#label2{
+  font-size: 25px;
+  position: relative;
+  top: 30px;
+  left: 25%;
+}
